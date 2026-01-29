@@ -1,0 +1,8 @@
+ Due to rapid increase in technology the way of doing business has changed.
+There is increase in subscription based services and Subscription based services companies face major issue of customer churning
+Due to huge range of services, products and various websites and companies customers have more choices leading to churning.
+It is difficult for a company to track their customers activity and field of interest.
+To solve this problem our application predicts the churning of customers
+The churning is predicted using churn rate which is based on the user activity or we can say performance and their interest in that particular company.
+Application will be implemented using Python and ML. The IDE used for this purpose is VS code and jupyter notebook
+The GUI is implemented using HTML and CSS. The main logic part is executed using python Programming language and machine learning algorithm.
